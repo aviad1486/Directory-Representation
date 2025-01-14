@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Input directory and base URL
-            string inputPath = @"C:\temp";
+            string inputPath = @"WRITE YOUR INPUT PATH HERE";
             string baseUrl = "https://www.example.com";
 
             // Generate and print the static class structure
@@ -13,7 +13,7 @@
             //string result = findingPathV2.findPath(inputPath, baseUrl);
             //Console.WriteLine(result);
 
-            string outputFilePath = Path.Combine(@"C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\Class1.cs");
+            string outputFilePath = Path.Combine(@"WRITE YOUR OUTPUT PATH HERE");
 
             try
             {
