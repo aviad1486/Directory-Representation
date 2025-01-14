@@ -9,9 +9,9 @@
             string baseUrl = "https://www.example.com";
 
             // Generate and print the static class structure
-            string result = findingPathV1.findPath(inputPath, baseUrl);
-            //string result = findingPathV2.findPath(inputPath, baseUrl);
-            //Console.WriteLine(result);
+            string result = findingPathV1.findPath(inputPath, baseUrl); // TREE STRUCTURED HIERARCHY
+            //string result = findingPathV2.findPath(inputPath, baseUrl); // FLAT STRUCTURE
+            //Console.WriteLine(result); // show the result
 
             string outputFilePath = Path.Combine(@"WRITE YOUR OUTPUT PATH HERE");
 
