@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DirectoryRepresentation/1.0.0": {
+        "runtime": {
+          "DirectoryRepresentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DirectoryRepresentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

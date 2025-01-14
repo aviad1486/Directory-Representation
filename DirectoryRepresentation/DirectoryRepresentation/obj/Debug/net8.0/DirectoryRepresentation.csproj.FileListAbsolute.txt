@@ -1,0 +1,14 @@
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\bin\Debug\net8.0\DirectoryRepresentation.exe
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\bin\Debug\net8.0\DirectoryRepresentation.deps.json
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\bin\Debug\net8.0\DirectoryRepresentation.runtimeconfig.json
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\bin\Debug\net8.0\DirectoryRepresentation.dll
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\bin\Debug\net8.0\DirectoryRepresentation.pdb
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.AssemblyInfoInputs.cache
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.AssemblyInfo.cs
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.dll
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\refint\DirectoryRepresentation.dll
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.pdb
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\DirectoryRepresentation.genruntimeconfig.cache
+C:\Users\aviad\source\repos\DirectoryRepresentation\DirectoryRepresentation\obj\Debug\net8.0\ref\DirectoryRepresentation.dll
