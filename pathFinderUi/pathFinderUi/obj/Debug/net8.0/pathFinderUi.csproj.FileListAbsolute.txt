@@ -1,0 +1,14 @@
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.AssemblyInfoInputs.cache
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.AssemblyInfo.cs
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.csproj.CoreCompileInputs.cache
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\bin\Debug\net8.0\pathFinderUi.exe
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\bin\Debug\net8.0\pathFinderUi.deps.json
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\bin\Debug\net8.0\pathFinderUi.runtimeconfig.json
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\bin\Debug\net8.0\pathFinderUi.dll
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\bin\Debug\net8.0\pathFinderUi.pdb
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.dll
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\refint\pathFinderUi.dll
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.pdb
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\pathFinderUi.genruntimeconfig.cache
+C:\Users\aviad\source\repos\pathFinderUi\pathFinderUi\obj\Debug\net8.0\ref\pathFinderUi.dll
